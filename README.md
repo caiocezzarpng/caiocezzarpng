@@ -1,4 +1,4 @@
-## Olá! Eu sou Caio César 
+## Olá! Me chamo Caio César
 
 - 🔭 Sou Técnico em Informática especializado em Desenvolvimento de Sistemas Web
 - 🌱 Graduando em Engenharia de Software pela UFC
