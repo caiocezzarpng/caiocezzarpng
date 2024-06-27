@@ -1,8 +1,16 @@
 ## Olá! Me chamo Caio César
 
-- 🔭 Sou Desenvolvedor de software Back End especializado em Desenvolvimento de Sistemas Web usando ASP.NET CORE
+- 🔭 Desenvolvedor Full Stack e Site Reliability Engineer apaixonado por otimização e eficiência. Atualmente, desempenho um papel fundamental na Fitbank, onde contribuo para a robustez e agilidade dos sistemas de pagamento, realizando melhorias contínuas no sistema de pagamento instantâneo (PIX), criando novas funcionalidades para as ferramentas da empresa.
+- 🔧 Tecnologias-chave:
+Desenvolvimento: C# .NET CORE / C# .NET Framework / React 
+Banco de Dados: SQLServer, MongoDB, Elasticsearch, Redis
+
+Arquitetura de Sistemas Escaláveis e Eficientes (Clean Architecture e DDD)
+Arquitetura e Implementação de Sistemas Distribuídos
+Otimização de Desempenho e Escalabilidade
+Desenvolvimento de Aplicações (Microserviços e APIs) de Alta Performance e Escalabilidade em C# .NET CORE & .NET Framework
+
 - 🌱 Graduando em Engenharia de Software pela UFC Campus Russas
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/caiocezzarpng">
